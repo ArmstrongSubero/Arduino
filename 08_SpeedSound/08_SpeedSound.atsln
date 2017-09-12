@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E66E83B9-2572-4076-B26E-6BE79FF3018A}") = "08_SpeedSound", "08_SpeedSound.cppproj", "{D45C5486-0C9D-4A56-8729-CBFC62702EA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D45C5486-0C9D-4A56-8729-CBFC62702EA5}.Debug|AVR.ActiveCfg = Debug|AVR
+		{D45C5486-0C9D-4A56-8729-CBFC62702EA5}.Debug|AVR.Build.0 = Debug|AVR
+		{D45C5486-0C9D-4A56-8729-CBFC62702EA5}.Release|AVR.ActiveCfg = Release|AVR
+		{D45C5486-0C9D-4A56-8729-CBFC62702EA5}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
